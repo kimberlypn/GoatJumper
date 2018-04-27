@@ -1,5 +1,6 @@
 # GoatJumper
 **Collaborators**: Kimberly Nguyen, Max Mindel, Jason Fiammetta, Jerry Leung 
+
 **Course Website**: https://cs3520.weebly.com 
 
 ## Introduction
