@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\maxdemo\projectopengl\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  ProjectOpenGL.vcxproj -> C:\Users\quazi\OneDrive\Documents\Visual Studios Projects\CS3520-Project\MaxDemo\Debug\ProjectOpenGL.exe

@@ -1,0 +1,13 @@
+﻿  main.cpp
+  GameController.cpp
+  Generating Code...
+  Compiling...
+  SDLView.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  World.cpp
+  Player.cpp
+  Platform.cpp
+  GameObj.cpp
+  LINK : C:\Users\quazi\OneDrive\Documents\Visual Studios Projects\CS3520-Project\misc\visual_studio\Game\Debug\Game.exe not found or not built by the last incremental link; performing full link
+  Game.vcxproj -> C:\Users\quazi\OneDrive\Documents\Visual Studios Projects\CS3520-Project\misc\visual_studio\Game\Debug\Game.exe

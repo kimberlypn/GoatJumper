@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>65F52DB6-EE68-4D73-8186-91391E38FFDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenAL example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78E4E875DCE28C66381DD29F45ADD642F11F5EB8</key>
+		<string>https://github.ccs.neu.edu/jfiammetta/Homework.git</string>
+		<key>FCE081C1E4986CEF65866B0F106A7D33278D497D</key>
+		<string>https://github.ccs.neu.edu/kpnguyen/CS3520-Project</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenAL example/OpenAL example.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78E4E875DCE28C66381DD29F45ADD642F11F5EB8</key>
+		<string>../../../..</string>
+		<key>FCE081C1E4986CEF65866B0F106A7D33278D497D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.ccs.neu.edu/kpnguyen/CS3520-Project</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FCE081C1E4986CEF65866B0F106A7D33278D497D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78E4E875DCE28C66381DD29F45ADD642F11F5EB8</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FCE081C1E4986CEF65866B0F106A7D33278D497D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>

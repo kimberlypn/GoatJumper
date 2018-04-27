@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\quazi\onedrive\documents\visual studios projects\cs3520-project\misc\visual_studio\demo\projectopengl\header.h(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
